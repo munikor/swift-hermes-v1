@@ -1,0 +1,54 @@
+{
+  "author": "Wrapzii",
+  "date": "2026-10-01",
+  "source": "ukisai/Swift-1.5-Qwen3.8-27b-W4A16-AutoRound",
+  "files": {
+    "compat_g_idx.safetensors": {
+      "notice": "Modified by Wrapzii, 2026-10-01: Swift-specific GPTQ head/MTP bake, INT8 embedding side file, GPTQ compatibility and low-default chat template; see MODIFICATIONS.json.",
+      "tensor_payload_sha256": "b1b3ecb01a477bdbdaf728821367765e82ff3a811543cf2d68930df172520090",
+      "payload_changed_during_publication": false
+    },
+    "model-bake-int4.safetensors": {
+      "notice": "Modified by Wrapzii, 2026-10-01: Swift-specific GPTQ head/MTP bake, INT8 embedding side file, GPTQ compatibility and low-default chat template; see MODIFICATIONS.json.",
+      "tensor_payload_sha256": "a073ad06657d1850a6836a31cf5650d87a125d61df83ac494327587b2d1450cc",
+      "payload_changed_during_publication": false
+    },
+    "model-embed-int8.safetensors": {
+      "notice": "Modified by Wrapzii, 2026-10-01: Swift-specific GPTQ head/MTP bake, INT8 embedding side file, GPTQ compatibility and low-default chat template; see MODIFICATIONS.json.",
+      "tensor_payload_sha256": "fd2a61ba3076b7e7886bebaab7f30c0d764c45a08636d3e99dc15fb291036ae9",
+      "payload_changed_during_publication": false
+    },
+    "model_extra_tensors.safetensors": {
+      "notice": "Modified by Wrapzii, 2026-10-01: Swift-specific GPTQ head/MTP bake, INT8 embedding side file, GPTQ compatibility and low-default chat template; see MODIFICATIONS.json.",
+      "tensor_payload_sha256": "ead964d174baa6a350c1667632cc12961b8b9e44484ad61af18550d587b8b16e",
+      "payload_changed_during_publication": false
+    },
+    "config.json": {
+      "notice": "Modified by Wrapzii, 2026-10-01: Swift-specific GPTQ head/MTP bake, INT8 embedding side file, GPTQ compatibility and low-default chat template; see MODIFICATIONS.json."
+    },
+    "BAKE.json": {
+      "notice": "Modified by Wrapzii, 2026-10-01: Swift-specific GPTQ head/MTP bake, INT8 embedding side file, GPTQ compatibility and low-default chat template; see MODIFICATIONS.json."
+    },
+    "model.safetensors.index.json": {
+      "notice": "Modified by Wrapzii, 2026-10-01: Swift-specific GPTQ head/MTP bake, INT8 embedding side file, GPTQ compatibility and low-default chat template; see MODIFICATIONS.json."
+    },
+    "quantization_config.json": {
+      "notice": "Modified by Wrapzii, 2026-10-01: Swift-specific GPTQ head/MTP bake, INT8 embedding side file, GPTQ compatibility and low-default chat template; see MODIFICATIONS.json."
+    },
+    "quantize_config.json": {
+      "notice": "Modified by Wrapzii, 2026-10-01: Swift-specific GPTQ head/MTP bake, INT8 embedding side file, GPTQ compatibility and low-default chat template; see MODIFICATIONS.json."
+    },
+    "COMPATIBILITY.json": {
+      "notice": "Modified by Wrapzii, 2026-10-01: Swift-specific GPTQ head/MTP bake, INT8 embedding side file, GPTQ compatibility and low-default chat template; see MODIFICATIONS.json."
+    },
+    "chat_template.jinja": {
+      "notice": "Modified by Wrapzii, 2026-10-01: Swift-specific GPTQ head/MTP bake, INT8 embedding side file, GPTQ compatibility and low-default chat template; see MODIFICATIONS.json."
+    },
+    "chat_template_low.jinja": {
+      "notice": "Modified by Wrapzii, 2026-10-01: Swift-specific GPTQ head/MTP bake, INT8 embedding side file, GPTQ compatibility and low-default chat template; see MODIFICATIONS.json."
+    },
+    "tokenizer_config.json": {
+      "notice": "Modified by Wrapzii, 2026-10-01: Swift-specific GPTQ head/MTP bake, INT8 embedding side file, GPTQ compatibility and low-default chat template; see MODIFICATIONS.json."
+    }
+  }
+}
